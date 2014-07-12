@@ -4,7 +4,7 @@ test-repo
 
 ###Can't imagine this
 
-*brand new
-*sweet and soft
-*great and lovely repo
+* brand new
+* sweet and soft
+* great and lovely repo
 
